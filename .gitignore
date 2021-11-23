@@ -1,29 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/java,flex
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,flex
-
-### Flex ###
-
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-.actionScriptProperties
-
-# only for a non-library project
-.flexProperties
-
-# only for library project
-.flexLibProperties
-
-
-# Other files and folders
-.settings/
-.project/
-
-.FlexUnitSettings
-.externalToolBuilders
-.model
+# Created by https://www.toptal.com/developers/gitignore/api/java
+# Edit at https://www.toptal.com/developers/gitignore?templates=java
 
 ### Java ###
 # Compiled class file
@@ -50,4 +27,4 @@ bin-release/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-# End of https://www.toptal.com/developers/gitignore/api/java,flex
+# End of https://www.toptal.com/developers/gitignore/api/java
